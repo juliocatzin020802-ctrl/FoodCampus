@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FoodCampus.Application/FoodCampus.Application.csproj" />
+  <Project Path="FoodCampus.ConsoleApp/FoodCampus.ConsoleApp.csproj" />
+  <Project Path="FoodCampus.Domain/FoodCampus.Domain.csproj" />
+  <Project Path="FoodCampus.Infrastructure/FoodCampus.Infrastructure.csproj" />
+</Solution>
